@@ -1,0 +1,115 @@
+﻿  New_Project_Bamk_In_OOP.cpp
+C:\Users\INFO\source\repos\New_Project_Bamk_In_OOP\New_Project_Bamk_In_OOP\Cls_Date.h(45,30): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'New_Project_Bamk_In_OOP.cpp')
+  
+C:\Users\INFO\source\repos\New_Project_Bamk_In_OOP\New_Project_Bamk_In_OOP\Cls_Date.h(62,26): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'New_Project_Bamk_In_OOP.cpp')
+  
+C:\Users\INFO\source\repos\New_Project_Bamk_In_OOP\New_Project_Bamk_In_OOP\CLs_String.h(192,22): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'New_Project_Bamk_In_OOP.cpp')
+  
+C:\Users\INFO\source\repos\New_Project_Bamk_In_OOP\New_Project_Bamk_In_OOP\CLs_String.h(292,16): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'New_Project_Bamk_In_OOP.cpp')
+  
+C:\Users\INFO\source\repos\New_Project_Bamk_In_OOP\New_Project_Bamk_In_OOP\CLs_String.h(306,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'New_Project_Bamk_In_OOP.cpp')
+  
+C:\Users\INFO\source\repos\New_Project_Bamk_In_OOP\New_Project_Bamk_In_OOP\Cls_Bank_Client.h(77,93): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'New_Project_Bamk_In_OOP.cpp')
+  
+C:\Users\INFO\source\repos\New_Project_Bamk_In_OOP\New_Project_Bamk_In_OOP\Cls_Bank_Client.h(80,18): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'New_Project_Bamk_In_OOP.cpp')
+  
+C:\Users\INFO\source\repos\New_Project_Bamk_In_OOP\New_Project_Bamk_In_OOP\Cls_Bank_Client.h(108,93): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'New_Project_Bamk_In_OOP.cpp')
+  
+C:\Users\INFO\source\repos\New_Project_Bamk_In_OOP\New_Project_Bamk_In_OOP\Cls_Bank_Client.h(111,18): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'New_Project_Bamk_In_OOP.cpp')
+  
+C:\Users\INFO\source\repos\New_Project_Bamk_In_OOP\New_Project_Bamk_In_OOP\Cls_Bank_Client.h(97,8): warning C4101: 'Check': unreferenced local variable
+  (compiling source file 'New_Project_Bamk_In_OOP.cpp')
+  
+C:\Users\INFO\source\repos\New_Project_Bamk_In_OOP\New_Project_Bamk_In_OOP\Cls_Bank_Client.h(210,17): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'New_Project_Bamk_In_OOP.cpp')
+  
+C:\Users\INFO\source\repos\New_Project_Bamk_In_OOP\New_Project_Bamk_In_OOP\Cls_Bank_Client.h(256,18): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'New_Project_Bamk_In_OOP.cpp')
+  
+C:\Users\INFO\source\repos\New_Project_Bamk_In_OOP\New_Project_Bamk_In_OOP\Cls_Bank_Client.h(275,17): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'New_Project_Bamk_In_OOP.cpp')
+  
+C:\Users\INFO\source\repos\New_Project_Bamk_In_OOP\New_Project_Bamk_In_OOP\Cls_Show_Cleint_List.h(13,40): warning C4584: 'Cls_Show_Cleint_List': base-class 'Cls_Utility' is already a base-class of 'Cls_HeaderScreen'
+  (compiling source file 'New_Project_Bamk_In_OOP.cpp')
+  C:\Users\INFO\source\repos\New_Project_Bamk_In_OOP\New_Project_Bamk_In_OOP\CLs_Utility.h(12,7):
+  see declaration of 'Cls_Utility'
+  C:\Users\INFO\source\repos\New_Project_Bamk_In_OOP\New_Project_Bamk_In_OOP\Cls_HeaderScreen.h(14,7):
+  see declaration of 'Cls_HeaderScreen'
+  
+C:\Users\INFO\source\repos\New_Project_Bamk_In_OOP\New_Project_Bamk_In_OOP\Cls_DeleteClient.h(10,33): warning C4584: 'Cls_DeleteClient': base-class 'Cls_Utility' is already a base-class of 'Cls_Bank_Client'
+  (compiling source file 'New_Project_Bamk_In_OOP.cpp')
+  C:\Users\INFO\source\repos\New_Project_Bamk_In_OOP\New_Project_Bamk_In_OOP\CLs_Utility.h(12,7):
+  see declaration of 'Cls_Utility'
+  C:\Users\INFO\source\repos\New_Project_Bamk_In_OOP\New_Project_Bamk_In_OOP\Cls_Bank_Client.h(10,7):
+  see declaration of 'Cls_Bank_Client'
+  
+C:\Users\INFO\source\repos\New_Project_Bamk_In_OOP\New_Project_Bamk_In_OOP\Cls_DeleteClient.h(10,57): warning C4584: 'Cls_DeleteClient': base-class 'Cls_Utility' is already a base-class of 'Cls_HeaderScreen'
+  (compiling source file 'New_Project_Bamk_In_OOP.cpp')
+  C:\Users\INFO\source\repos\New_Project_Bamk_In_OOP\New_Project_Bamk_In_OOP\CLs_Utility.h(12,7):
+  see declaration of 'Cls_Utility'
+  C:\Users\INFO\source\repos\New_Project_Bamk_In_OOP\New_Project_Bamk_In_OOP\Cls_HeaderScreen.h(14,7):
+  see declaration of 'Cls_HeaderScreen'
+  
+C:\Users\INFO\source\repos\New_Project_Bamk_In_OOP\New_Project_Bamk_In_OOP\CLs_UpdateClient.h(10,36): warning C4584: 'CLs_UpdateClient': base-class 'Cls_Utility' is already a base-class of 'Cls_HeaderScreen'
+  (compiling source file 'New_Project_Bamk_In_OOP.cpp')
+  C:\Users\INFO\source\repos\New_Project_Bamk_In_OOP\New_Project_Bamk_In_OOP\CLs_Utility.h(12,7):
+  see declaration of 'Cls_Utility'
+  C:\Users\INFO\source\repos\New_Project_Bamk_In_OOP\New_Project_Bamk_In_OOP\Cls_HeaderScreen.h(14,7):
+  see declaration of 'Cls_HeaderScreen'
+  
+C:\Users\INFO\source\repos\New_Project_Bamk_In_OOP\New_Project_Bamk_In_OOP\CLs_UpdateClient.h(10,61): warning C4584: 'CLs_UpdateClient': base-class 'Cls_Utility' is already a base-class of 'Cls_Bank_Client'
+  (compiling source file 'New_Project_Bamk_In_OOP.cpp')
+  C:\Users\INFO\source\repos\New_Project_Bamk_In_OOP\New_Project_Bamk_In_OOP\CLs_Utility.h(12,7):
+  see declaration of 'Cls_Utility'
+  C:\Users\INFO\source\repos\New_Project_Bamk_In_OOP\New_Project_Bamk_In_OOP\Cls_Bank_Client.h(10,7):
+  see declaration of 'Cls_Bank_Client'
+  
+C:\Users\INFO\source\repos\New_Project_Bamk_In_OOP\New_Project_Bamk_In_OOP\Cls_Find_Client.h(10,35): warning C4584: 'Cls_Find_Client': base-class 'Cls_Utility' is already a base-class of 'Cls_HeaderScreen'
+  (compiling source file 'New_Project_Bamk_In_OOP.cpp')
+  C:\Users\INFO\source\repos\New_Project_Bamk_In_OOP\New_Project_Bamk_In_OOP\CLs_Utility.h(12,7):
+  see declaration of 'Cls_Utility'
+  C:\Users\INFO\source\repos\New_Project_Bamk_In_OOP\New_Project_Bamk_In_OOP\Cls_HeaderScreen.h(14,7):
+  see declaration of 'Cls_HeaderScreen'
+  
+C:\Users\INFO\source\repos\New_Project_Bamk_In_OOP\New_Project_Bamk_In_OOP\Cls_Find_Client.h(10,60): warning C4584: 'Cls_Find_Client': base-class 'Cls_Utility' is already a base-class of 'Cls_Bank_Client'
+  (compiling source file 'New_Project_Bamk_In_OOP.cpp')
+  C:\Users\INFO\source\repos\New_Project_Bamk_In_OOP\New_Project_Bamk_In_OOP\CLs_Utility.h(12,7):
+  see declaration of 'Cls_Utility'
+  C:\Users\INFO\source\repos\New_Project_Bamk_In_OOP\New_Project_Bamk_In_OOP\Cls_Bank_Client.h(10,7):
+  see declaration of 'Cls_Bank_Client'
+  
+C:\Users\INFO\source\repos\New_Project_Bamk_In_OOP\New_Project_Bamk_In_OOP\Cls_Withdraw.h(10,32): warning C4584: 'Cls_Withdraw': base-class 'Cls_HeaderScreen' is already a base-class of 'Cls_Deposit'
+  (compiling source file 'New_Project_Bamk_In_OOP.cpp')
+  C:\Users\INFO\source\repos\New_Project_Bamk_In_OOP\New_Project_Bamk_In_OOP\Cls_HeaderScreen.h(14,7):
+  see declaration of 'Cls_HeaderScreen'
+  C:\Users\INFO\source\repos\New_Project_Bamk_In_OOP\New_Project_Bamk_In_OOP\Cls_Deposit.h(9,7):
+  see declaration of 'Cls_Deposit'
+  
+C:\Users\INFO\source\repos\New_Project_Bamk_In_OOP\New_Project_Bamk_In_OOP\Cls_Bank_Usser.h(93,91): warning C4244: 'argument': conversion from 'double' to 'short', possible loss of data
+  (compiling source file 'New_Project_Bamk_In_OOP.cpp')
+  
+C:\Users\INFO\source\repos\New_Project_Bamk_In_OOP\New_Project_Bamk_In_OOP\Cls_Bank_Usser.h(96,18): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'New_Project_Bamk_In_OOP.cpp')
+  
+C:\Users\INFO\source\repos\New_Project_Bamk_In_OOP\New_Project_Bamk_In_OOP\Cls_Bank_Usser.h(273,17): warning C4244: '=': conversion from 'float' to 'short', possible loss of data
+  (compiling source file 'New_Project_Bamk_In_OOP.cpp')
+  
+C:\Users\INFO\source\repos\New_Project_Bamk_In_OOP\New_Project_Bamk_In_OOP\Cls_MaineScreen.h(306,25): warning C4244: '=': conversion from 'float' to 'short', possible loss of data
+  (compiling source file 'New_Project_Bamk_In_OOP.cpp')
+  
+C:\Users\INFO\source\repos\New_Project_Bamk_In_OOP\New_Project_Bamk_In_OOP\Cls_MaineScreen.h(309,104): warning C4244: 'argument': conversion from 'float' to 'short', possible loss of data
+  (compiling source file 'New_Project_Bamk_In_OOP.cpp')
+  
+C:\Users\INFO\source\repos\New_Project_Bamk_In_OOP\New_Project_Bamk_In_OOP\Cls_Bank_Client.h(450,1): warning C4715: 'Cls_Bank_Client::IsClientExit': not all control paths return a value
+C:\Users\INFO\source\repos\New_Project_Bamk_In_OOP\New_Project_Bamk_In_OOP\Cls_Bank_Client.h(538,1): warning C4715: 'Cls_Bank_Client::Delete': not all control paths return a value
+C:\Users\INFO\source\repos\New_Project_Bamk_In_OOP\New_Project_Bamk_In_OOP\Cls_Bank_Usser.h(300,1): warning C4715: 'Cls_Bank_Usser::IsUsserExit': not all control paths return a value
+  New_Project_Bamk_In_OOP.vcxproj -> C:\Users\INFO\source\repos\New_Project_Bamk_In_OOP\x64\Debug\New_Project_Bamk_In_OOP.exe
